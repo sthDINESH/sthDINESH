@@ -16,7 +16,17 @@
 ###
 
 <h1 align="center">Hey there! I'm Dinesh 👋</h1>
+<strong>Junior Full Stack Software Developer</strong> | Former Verfication Engineer
+<br />
+<br />
 
+I’m a **Junior Full Stack Developer** based in **UK**, passionate about building intuitive and engaging web applications.  
+I love crafting clean, user-friendly experiences with **Python**, **Django**, **JavaScript**, and **Bootstrap**, and I’m currently exploring **React** and modern front-end practices.  
+
+After nearly a decade as a **Verification Engineer**, I’ve brought my analytical mindset, attention to detail, and love for problem-solving into the world of software development — where creativity meets logic. I enjoy collaborating on meaningful projects, learning new technologies, and contributing to the developer community.  
+
+💡 Always open to new challenges, exciting ideas, and opportunities to collaborate.  
+Let’s **connect**, **build**, and **learn together** — feel free to reach out anytime! 🤝  
 ###
 
 ## Tech Stack
