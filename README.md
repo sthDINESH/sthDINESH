@@ -15,23 +15,24 @@
 
 ###
 
-<h1 align="center">Hey there! I'm Dinesh 👋</h1>
-<strong>Junior Full Stack Software Developer</strong> | Former Verfication Engineer
-<br />
+<h1 align="center">👋 Hey there! I'm Dinesh. </h1>
 <br />
 
 I’m a **Junior Full Stack Developer** based in **UK**, passionate about building intuitive and engaging web applications.  
-I love crafting clean, user-friendly experiences with **Python**, **Django**, **JavaScript**, and **Bootstrap**, and I’m currently exploring **React** and modern front-end practices.  
+I love crafting clean, user-friendly solutions with **Python**, **Django**, **JavaScript**, and **Bootstrap**, and I’m currently exploring **React** and modern front-end practices.  
 
 After nearly a decade as a **Verification Engineer**, I’ve brought my analytical mindset, attention to detail, and love for problem-solving into the world of software development — where creativity meets logic. I enjoy collaborating on meaningful projects, learning new technologies, and contributing to the developer community.  
 
 💡 Always open to new challenges, exciting ideas, and opportunities to collaborate.  
 Let’s **connect**, **build**, and **learn together** — feel free to reach out anytime! 🤝  
-###
+<br />
+<br />
+
+---
 
 ## Tech Stack
 
-<h3 align="left">🛠 Languages and frameworks</h3>
+<h3 align="left">Languages & frameworks</h3>
 
 ###
 
@@ -53,7 +54,7 @@ Let’s **connect**, **build**, and **learn together** — feel free to reach ou
 
 ###
 
-<h3 align="left">🛠 Tools and Workflow </h3>
+<h3 align="left">Tools and Workflow </h3>
 
 ###
 
@@ -74,6 +75,10 @@ Let’s **connect**, **build**, and **learn together** — feel free to reach ou
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
+<br />
+<br />
+
+---
 
 ## GitHub Stats
 
