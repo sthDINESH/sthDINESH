@@ -37,13 +37,20 @@ I enjoy collaborating on meaningful projects, learning new technologies, and con
 
 <h2 align="center">✨ Featured Projects</h2>
 
-<div style="display:grid;grid-template-columns:repeat(2, 1fr);gap:6px;align-items:start;justify-items:center;max-width:820px;margin:0 auto">
-
-[![Pantry Pilot](https://github-readme-stats.vercel.app/api/pin/?username=sthDINESH&repo=pantry_pilot&theme=dark&hide_border=true)](https://github.com/sthDINESH/pantry_pilot)
-
-[![DEI Decoded](https://github-readme-stats.vercel.app/api/pin/?username=sthDINESH&repo=dei-decoded&theme=dark&hide_border=true)](https://github.com/sthDINESH/dei-decoded)
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sthDINESH/pantry_pilot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sthDINESH&repo=pantry_pilot&theme=dark&hide_border=true" alt="Pantry Pilot" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sthDINESH/dei-decoded">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sthDINESH&repo=dei-decoded&theme=dark&hide_border=true" alt="DEI Decoded" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -51,15 +58,27 @@ I enjoy collaborating on meaningful projects, learning new technologies, and con
 
 Participated in Hackathons covering front-end, backend and full-stack development. Also,contributed as Scrum master across different teams.
 
-<div style="display:grid;grid-template-columns:repeat(2, 1fr);gap:6px;align-items:start;justify-items:center;max-width:820px;margin:0 auto">
-
-[![Trick or Threat](https://github-readme-stats.vercel.app/api/pin/?username=kimatron&repo=trickorthreat&theme=dark&hide_border=true)](https://github.com/kimatron/trickorthreat)
-
-[![backSpace](https://github-readme-stats.vercel.app/api/pin/?username=sthDINESH&repo=backSpace&theme=dark&hide_border=true)](https://github.com/sthDINESH/backspace)
-
-[![MindMaze](https://github-readme-stats.vercel.app/api/pin/?username=nicolae-cristoloveanu&repo=mind-maze-hackathon-ci&theme=dark&hide_border=true)](https://github.com/nicolae-cristoloveanu/mind-maze-hackathon-ci)
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kimatron/trickorthreat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimatron&repo=trickorthreat&theme=dark&hide_border=true" alt="Trick or Threat" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sthDINESH/backspace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sthDINESH&repo=backSpace&theme=dark&hide_border=true" alt="backSpace" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/nicolae-cristoloveanu/mind-maze-hackathon-ci">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolae-cristoloveanu&repo=mind-maze-hackathon-ci&theme=dark&hide_border=true" alt="MindMaze" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -107,13 +126,16 @@ Participated in Hackathons covering front-end, backend and full-stack developmen
 
 <h2 align="center">📈 My GitHub Activity</h2>
 
-<div style="display:grid;grid-template-columns:repeat(2, 1fr);gap:6px;align-items:start;justify-items:center;max-width:820px;margin:0 auto">
-
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthDINESH&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sthDINESH&layout=compact&theme=dark&hide_border=true)
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sthDINESH&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Dinesh's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthDINESH&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
