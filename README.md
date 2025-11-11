@@ -52,8 +52,6 @@ I enjoy collaborating on meaningful projects, learning new technologies, and con
   </tr>
 </table>
 
----
-
 <h2 align="center">🎪 Learning Through Hackathons</h2>
 
 Participated in Hackathons covering front-end, backend and full-stack development. Also,contributed as Scrum master across different teams.
@@ -79,8 +77,6 @@ Participated in Hackathons covering front-end, backend and full-stack developmen
     </td>
   </tr>
 </table>
-
----
 
 <h2 align="center">🧰 What I Work With</h2>
 
@@ -121,8 +117,6 @@ Participated in Hackathons covering front-end, backend and full-stack developmen
 </div>
 <br />
 <br />
-
----
 
 <h2 align="center">📈 My GitHub Activity</h2>
 
