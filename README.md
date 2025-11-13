@@ -23,7 +23,7 @@
 <br />
 
   
-I’m a **Junior Full Stack Developer**, passionate about building intuitive and engaging web applications.  
+I’m a **Full Stack Software Developer**, passionate about building intuitive and engaging web applications.  
 I love crafting clean, user-friendly solutions with **Python**, **Django**, **JavaScript**, and **Bootstrap**, and I’m currently exploring **React** and other modern front-end technologies.  
 
 After nearly a decade as a **Verification Engineer**, I’ve brought my analytical mindset, attention to detail, and love for problem-solving into the world of software development — where creativity meets logic. 
