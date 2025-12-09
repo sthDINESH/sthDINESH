@@ -23,12 +23,12 @@
 <br />
 
   
-I’m a **Full Stack Software Developer**, passionate about building intuitive and engaging web applications.  
-I love crafting clean, user-friendly solutions with **Python**, **Django**, **JavaScript**, and **Bootstrap**, and I’m currently exploring **React** and other modern front-end technologies.  
+I’m a **Full Stack Software Developer**, passionate about building intuitive and engaging web applications that drive real impact.  
+I love crafting clean, user-friendly solutions with **Python**, **Django**, **JavaScript** and I’m currently exploring **React** and other modern front-end technologies.  
 
 After nearly a decade as a **Verification Engineer**, I’ve brought my analytical mindset, attention to detail, and love for problem-solving into the world of software development — where creativity meets logic. 
 
-I enjoy collaborating on meaningful projects, learning new technologies, and contributing to the developer community.  
+I enjoy collaborating on meaningful projects, learning new technologies, and contributing to the developer community - feel free to reach out!  
 
 <br />
 
@@ -41,13 +41,48 @@ I enjoy collaborating on meaningful projects, learning new technologies, and con
 <table align="center">
   <tr>
     <td align="center">
+      <h3>Pantry Pilot</h3>
+      <p>Full-stack application to help users manage pantry inventory, discover recipes, and plan meals and generate shopping lists efficiently
+      <br />
+      Developed as my capstone project for Code Institute Bootcamp.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28" alt="Django" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
+      </div>
+      <br />
+      <a href="https://pantry-pilot-745736b33f31.herokuapp.com/">Live Preview</a>
+      <br />
+      <br />
       <a href="https://github.com/sthDINESH/pantry_pilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sthDINESH&repo=pantry_pilot&theme=dark&hide_border=true" alt="Pantry Pilot" />
+        <img src="https://raw.githubusercontent.com/sthDINESH/pantry_pilot/main/documentation/screenshots/pantry_pilot_amiresponsive.png" alt="Pantry Pilot" />
       </a>
     </td>
+  </tr>
+  
+  <tr>
     <td align="center">
+      <h3>DEI Decoded</h3>
+      <p>Single page static website to designed as a beginner-friendly resource for DEI in workplace and educational settings.
+      <br />
+      Developed as my first flagstone project for Code Institute Bootcamp.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" />
+      </div>
+      <br />
+      <a href="https://sthdinesh.github.io/dei-decoded/">Live Preview</a>
+      <br />
+      <br />
       <a href="https://github.com/sthDINESH/dei-decoded">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sthDINESH&repo=dei-decoded&theme=dark&hide_border=true" alt="DEI Decoded" />
+        <img src="https://raw.githubusercontent.com/sthDINESH/dei-decoded/main/assets/images/website-overview.png" alt="DEI Decoded" />
       </a>
     </td>
   </tr>
@@ -56,27 +91,72 @@ I enjoy collaborating on meaningful projects, learning new technologies, and con
 <br />
 <br />
 
-<h2 align="center">🎪 Learning Through Hackathons</h2>
+<h2 align="center">🎪 Hackathons</h2>
   
-I’ve contributed to front-end, back-end, and full-stack development across various hackathons, collaborating with diverse teams to bring ideas to life. I also took on the role of Scrum Master, helping teams stay organized, focused, and agile throughout the development process.
+Participated in multiple hackathons and contributed to front-end, back-end, and full-stack development, collaborating with diverse teams to bring ideas to life. 
+
+Also contributed as Scrum Master, helping teams stay organized, focused, and agile throughout the development process.
 
 <table align="center">
   <tr>
     <td align="center">
+      <h3>Trick or Threat</h3>
+      <p>A Halloween-themed cybersecurity toolkit for detecting and learning about phishing attacks. Check sketchy URLs, take quizzes on fake emails, and compete on the leaderboard.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28" alt="Django" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/GSAP-222222?style=for-the-badge&logo=GSAP&logoColor=0AE448" height="28" alt="GSAP" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
+      </div>
+      <br />
+      <a href="https://phantom-phish-buster-2f6a1ce98088.herokuapp.com">Live preview</a>
+      <br />
+      <br />
       <a href="https://github.com/kimatron/trickorthreat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimatron&repo=trickorthreat&theme=dark&hide_border=true" alt="Trick or Threat" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sthDINESH/backspace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sthDINESH&repo=backSpace&theme=dark&hide_border=true" alt="backSpace" />
+        <img src="trick-or-threat.png" alt="Trick or Threat" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
+      <h3>backSpace</h3>
+      <p>Full-stack workspace booking system that allows users to book desks, meeting rooms, and collaboration spaces </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28" alt="Django" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
+      </div>
+      <br />
+      <a href="https://backspace-c8042b918673.herokuapp.com/">Live preview</a>
+      <br />
+      <br /> 
+      <a href="https://github.com/sthDINESH/backspace">
+        <img src="https://private-user-images.githubusercontent.com/218000870/502611215-a8b003e9-f89f-404d-becf-57ca564e98d4.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyODU4NjAsIm5iZiI6MTc2NTI4NTU2MCwicGF0aCI6Ii8yMTgwMDA4NzAvNTAyNjExMjE1LWE4YjAwM2U5LWY4OWYtNDA0ZC1iZWNmLTU3Y2E1NjRlOThkNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwOVQxMzA2MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNjAzYzk3YjAxNjZlYTgxMWQ4MTBkNmRhYzNhYjlhZjhlNGJlMmFiMjA0ODE5NTAxZWE0YjNiZDM2MmJiYzIxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.mf0zf-s4SBkMN0M9f2w3ILNzG1ZYWQEaSTjvwPXVQW4" alt="backSpace" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>MindMaze</h3>
+      <p>An engaging, responsive web-based puzzle game that combines maze navigation with trivia challenges, creating a unique blend of spatial reasoning and knowledge-based gameplay for players of all skill levels.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" />
+      </div>
+      <br />
+      <a href="https://nicolae-cristoloveanu.github.io/mind-maze-hackathon-ci/">Live preview</a>
+      <br />
+      <br />
       <a href="https://github.com/nicolae-cristoloveanu/mind-maze-hackathon-ci">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolae-cristoloveanu&repo=mind-maze-hackathon-ci&theme=dark&hide_border=true" alt="MindMaze" />
+        <img src="mindmaze.png" alt="MindMaze" />
       </a>
     </td>
   </tr>
@@ -117,21 +197,6 @@ I’ve contributed to front-end, back-end, and full-stack development across var
 </div>
 
 <br />
-<br />
-
-<h2 align="center">📈 My GitHub Activity</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sthDINESH&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Dinesh's GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthDINESH&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
 <br />
 
 ---
