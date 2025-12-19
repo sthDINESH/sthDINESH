@@ -137,7 +137,7 @@ Also contributed as Scrum Master, helping teams stay organized, focused, and agi
       <br />
       <br /> 
       <a href="https://github.com/sthDINESH/backspace">
-        <img src="https://private-user-images.githubusercontent.com/218000870/502611215-a8b003e9-f89f-404d-becf-57ca564e98d4.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyODU4NjAsIm5iZiI6MTc2NTI4NTU2MCwicGF0aCI6Ii8yMTgwMDA4NzAvNTAyNjExMjE1LWE4YjAwM2U5LWY4OWYtNDA0ZC1iZWNmLTU3Y2E1NjRlOThkNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwOVQxMzA2MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNjAzYzk3YjAxNjZlYTgxMWQ4MTBkNmRhYzNhYjlhZjhlNGJlMmFiMjA0ODE5NTAxZWE0YjNiZDM2MmJiYzIxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.mf0zf-s4SBkMN0M9f2w3ILNzG1ZYWQEaSTjvwPXVQW4" alt="backSpace" />
+        <img src="https://github.com/user-attachments/assets/a8b003e9-f89f-404d-becf-57ca564e98d4" alt="backSpace" />
       </a>
     </td>
   </tr>
@@ -198,6 +198,13 @@ Also contributed as Scrum Master, helping teams stay organized, focused, and agi
 
 <br />
 <br />
+
+<h2 align="center">📈 My Github Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sthDINESH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sthDINESH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ---
 
