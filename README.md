@@ -24,12 +24,43 @@
 
   
 I’m a **Full Stack Software Developer**, passionate about building intuitive and engaging web applications that drive real impact.  
-I love crafting clean, user-friendly solutions with **Python**, **Django**, **JavaScript** and I’m currently exploring **React** and other modern front-end technologies.  
+I love crafting clean, user-friendly solutions with **Python**, **Django**, **JavaScript** and I’m currently exploring **React**, **Node.js** and other modern front-end technologies.  
 
-After nearly a decade as a **Verification Engineer**, I’ve brought my analytical mindset, attention to detail, and love for problem-solving into the world of software development — where creativity meets logic. 
+After nearly a decade as a **Verification Engineer**, I’ve brought my analytical mindset, attention to detail, and love for problem-solving into the world of software development. 
 
 I enjoy collaborating on meaningful projects, learning new technologies, and contributing to the developer community - feel free to reach out!  
 
+<br />
+
+---
+
+<br />
+<br />
+<h2 align="center">✨ Currently working on...</h2>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>Vertex</h3>
+      <p>AI-powered learning companion that maps the path to understanding
+      <br />
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="28" alt="Express" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB" />
+      </div>
+      <br />
+      <a href="https://vertex-eta-tawny.vercel.app/">Live Preview</a>
+      <br />
+      <br />
+    </td>
+  </tr>
+  </table>
 <br />
 
 ---
@@ -172,10 +203,15 @@ Also contributed as Scrum Master, helping teams stay organized, focused, and agi
 <div align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28" alt="Django" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="28" alt="Express" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" alt="C++" />
@@ -191,6 +227,8 @@ Also contributed as Scrum Master, helping teams stay organized, focused, and agi
   <img src="https://img.shields.io/static/v1?message=VSCode&logo=visual-studio-code&label=&color=0078D4&logoColor=white&style=for-the-badge" height="28" alt="vscode logo"  />
   <img src="https://img.shields.io/static/v1?message=PyCharm&logo=pycharm&label=&color=000000&logoColor=white&style=for-the-badge" height="28" alt="pycharm logo"  />
   <img src="https://img.shields.io/static/v1?message=Heroku&logo=heroku&label=&color=430098&logoColor=white&style=for-the-badge" height="28" alt="heroku logo"  />
+  <img src="https://img.shields.io/static/v1?message=Vercel&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="28" alt="vercel logo"  />
+  <img src="https://img.shields.io/static/v1?message=Render&logo=render&label=&color=46E3B7&logoColor=white&style=for-the-badge" height="28" alt="render logo"  />
   <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&style=for-the-badge" height="28" alt="figma logo"  />
   <img src="https://img.shields.io/static/v1?message=Jenkins&logo=jenkins&label=&color=D24939&logoColor=white&style=for-the-badge" height="28" alt="jenkins logo"  />
   <img src="https://img.shields.io/static/v1?message=Jira&logo=jira&label=&color=0052CC&logoColor=white&style=for-the-badge" height="28" alt="jira logo"  />
