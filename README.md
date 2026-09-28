@@ -22,7 +22,7 @@
 <h1 align="center">👋 Hi! I'm Dinesh. </h1>
 <br />
 
-### Software Engineer | Data Engineering | Full-Stack Development
+<h3 align="center">Software Engineer | Data Engineering | Full-Stack Development </h3> 
 
 I'm an engineer with 9+ years of professional engineering experience, now focusing on Data Engineering and Full-Stack Development.
 
@@ -58,7 +58,7 @@ My background in verification engineering includes Python automation, performanc
       <br />
     </td>
   </tr>
-  </table>
+</table>
 <br />
 
 ---
