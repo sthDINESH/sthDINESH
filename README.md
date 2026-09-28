@@ -19,17 +19,15 @@
 
 ###
 
-<h1 align="center">👋 Hey there! I'm Dinesh. </h1>
+<h1 align="center">👋 Hi! I'm Dinesh. </h1>
 <br />
 
+### Software Engineer | Data Engineering | Full-Stack Development
+
+I'm an engineer with 9+ years of professional engineering experience, now focusing on Data Engineering and Full-Stack Development.
+
+My background in verification engineering includes Python automation, performance analysis and building tools to improve engineering workflows. I'm now applying that experience to building data pipelines, backend services and full-stack applications.
   
-I’m a **Full Stack Software Developer**, passionate about building intuitive and engaging web applications that drive real impact.  
-I love crafting clean, user-friendly solutions with **Python**, **Django**, **JavaScript** and I’m currently exploring **React**, **Node.js** and other modern front-end technologies.  
-
-After nearly a decade as a **Verification Engineer**, I’ve brought my analytical mindset, attention to detail, and love for problem-solving into the world of software development. 
-
-I enjoy collaborating on meaningful projects, learning new technologies, and contributing to the developer community - feel free to reach out!  
-
 <br />
 
 ---
@@ -66,7 +64,6 @@ I enjoy collaborating on meaningful projects, learning new technologies, and con
 ---
 
 <br />
-<br />
 
 <h2 align="center">✨ Featured Projects</h2>
 <table align="center">
@@ -98,24 +95,15 @@ I enjoy collaborating on meaningful projects, learning new technologies, and con
   
   <tr>
     <td align="center">
-      <h3>DEI Decoded</h3>
-      <p>Single page static website to designed as a beginner-friendly resource for DEI in workplace and educational settings.
-      <br />
-      Developed as my first flagstone project for Code Institute Bootcamp.
+      <h3>Plants 101</h3>
+      <p>An AI-powered plant information platform developed as a team project.
+      
+Features end-to-end ETL pipeline to ingest, clean and transform plant data from REST APIs into MongoDB and AWS S3.
+Semantic search and retrieval-augmented generation (RAG) using Sentence Transformers, FAISS and Gemini.
       </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" />
-      </div>
+      <div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB" /> <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="28" alt="Amazon S3" /> <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="REST API" /> <img src="https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" alt="Sentence Transformers" /> <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="28" alt="FAISS" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" alt="Gemini" /> </div>
       <br />
-      <a href="https://sthdinesh.github.io/dei-decoded/">Live Preview</a>
-      <br />
-      <br />
-      <a href="https://github.com/sthDINESH/dei-decoded">
-        <img src="https://raw.githubusercontent.com/sthDINESH/dei-decoded/main/assets/images/website-overview.png" alt="DEI Decoded" />
-      </a>
-    </td>
+      <div align="center"> <a href="https://github.com/sthDINESH/se-plant-etl-project">View Repository</a> </div>
   </tr>
 </table>
 
@@ -124,10 +112,6 @@ I enjoy collaborating on meaningful projects, learning new technologies, and con
 
 <h2 align="center">🎪 Hackathons</h2>
   
-Participated in multiple hackathons and contributed to front-end, back-end, and full-stack development, collaborating with diverse teams to bring ideas to life. 
-
-Also contributed as Scrum Master, helping teams stay organized, focused, and agile throughout the development process.
-
 <table align="center">
   <tr>
     <td align="center">
@@ -201,59 +185,81 @@ Also contributed as Scrum Master, helping teams stay organized, focused, and agi
 <h3 align="center">Languages & frameworks</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28" alt="Django" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" alt="React" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28" alt="Django" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="28" alt="Express" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB" />
+</div>
+
+<h3 align="center">Data, databases & cloud</h3>
+
+<div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" alt="C++" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="28" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="28" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker" />
+  <img src="https://img.shields.io/badge/ETL-4B5563?style=for-the-badge&logo=databricks&logoColor=white" height="28" alt="ETL" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=swagger&logoColor=white" height="28" alt="REST APIs" />
 </div>
 
-<h3 align="center">Tools and Workflow </h3>
-
-###
+<h3 align="center">AI & search</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&style=for-the-badge" height="28" alt="git logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="28" alt="github logo"  />
-  <img src="https://img.shields.io/static/v1?message=VSCode&logo=visual-studio-code&label=&color=0078D4&logoColor=white&style=for-the-badge" height="28" alt="vscode logo"  />
-  <img src="https://img.shields.io/static/v1?message=PyCharm&logo=pycharm&label=&color=000000&logoColor=white&style=for-the-badge" height="28" alt="pycharm logo"  />
-  <img src="https://img.shields.io/static/v1?message=Heroku&logo=heroku&label=&color=430098&logoColor=white&style=for-the-badge" height="28" alt="heroku logo"  />
-  <img src="https://img.shields.io/static/v1?message=Vercel&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="28" alt="vercel logo"  />
-  <img src="https://img.shields.io/static/v1?message=Render&logo=render&label=&color=46E3B7&logoColor=white&style=for-the-badge" height="28" alt="render logo"  />
-  <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&style=for-the-badge" height="28" alt="figma logo"  />
-  <img src="https://img.shields.io/static/v1?message=Jenkins&logo=jenkins&label=&color=D24939&logoColor=white&style=for-the-badge" height="28" alt="jenkins logo"  />
-  <img src="https://img.shields.io/static/v1?message=Jira&logo=jira&label=&color=0052CC&logoColor=white&style=for-the-badge" height="28" alt="jira logo"  />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" alt="Sentence Transformers" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="28" alt="FAISS" />
+  <img src="https://img.shields.io/badge/RAG-6B7280?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" alt="Retrieval-Augmented Generation" />
+</div>
+
+<h3 align="center">Tools & workflow</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&style=for-the-badge" height="28" alt="Git" />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="28" alt="GitHub" />
+  <img src="https://img.shields.io/static/v1?message=VSCode&logo=visual-studio-code&label=&color=0078D4&logoColor=white&style=for-the-badge" height="28" alt="VS Code" />
+  <img src="https://img.shields.io/static/v1?message=PyCharm&logo=pycharm&label=&color=000000&logoColor=white&style=for-the-badge" height="28" alt="PyCharm" />
+  <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&style=for-the-badge" height="28" alt="Linux" />
+  <img src="https://img.shields.io/static/v1?message=Shell&logo=gnubash&label=&color=4EAA25&logoColor=white&style=for-the-badge" height="28" alt="Shell" />
+  <img src="https://img.shields.io/static/v1?message=Jira&logo=jira&label=&color=0052CC&logoColor=white&style=for-the-badge" height="28" alt="Jira" />
 </div>
 
 <br />
 <br />
 
-<h2 align="center">📈 My Github Stats</h2>
+
+<h2 align="center">📚 Currently Learning</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sthDINESH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sthDINESH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+🔹 **Modern Data Engineering**
+Data pipelines, cloud-based data systems & scalable data workflows
+
+🔹 **Cloud & DevOps**
+Docker, Kubernetes & AWS
+
+🔹 **Software Engineering**
+Building reliable, maintainable & scalable applications
+
 </div>
+
 
 ---
+
 
 <br />
 <h2 align="center">🤝 Let's Connect!</h2>
 
 <div align="center">
 
-I'm always open to new challenges, exciting ideas, and opportunities to collaborate.  
-
-Let’s **connect**, **build**, and **learn together** — feel free to reach out! 💬  
+I'm interested in opportunities in **Data Engineering and Full-Stack Development**, as well as collaborating on practical software and data projects.
 
 </div>
 
